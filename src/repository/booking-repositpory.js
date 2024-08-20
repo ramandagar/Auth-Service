@@ -20,14 +20,6 @@ class BookingRepository {
             )
         }
     }
-
-    async updateBooking(data){
-        try {
-            
-        } catch (error) {
-            
-        }
-    }
 }
 
 module.exports = BookingRepository;
